@@ -12,4 +12,4 @@ Here is what I did
 Skills gained:
 1. Parsing data in CSV files
 2. Data Augmentation
-3. Building highly accurate convolutional neural networks
+3. Building highly accurate CNNs
